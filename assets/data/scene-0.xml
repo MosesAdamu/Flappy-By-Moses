@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="6" extheight="544" extwidth="384" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="45.0" height="480" id="0" name="Scene01" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="320">
+    <layers>
+        <color-bg blue="-1" green="-1" red="-1"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="Background" opacity="100" order="2" rid="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <background blendMode="normal" customScrollFactor="false" id="2" locked="true" name="NewBackground" opacity="100" order="1" rid="26" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="2" id="0" name="Region 0" pts="4,1.0,0.0,1.0,2.0,0.0,2.0,0.0,0.0" r="64" type="box" w="1" x="88" y="352"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="5" name="Ground 1" sx="1.0" sy="1.0" x="1" y="368" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="5" name="Ground 2" sx="1.0" sy="1.0" x="337" y="368" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="0" id="1" name="Flappy Bird 3" sx="1.0" sy="1.0" x="145" y="88" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="2" id="7" name="Instructions 4" sx="1.0" sy="1.0" x="105" y="146" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="10">
+            <prop id="1" list="0" val="3"/>
+            <prop id="2" list="0" val="false"/>
+            <prop id="3" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
